@@ -18,13 +18,13 @@
 | `git commit -am` | add and commit in a single step | git commit -am "Added more" |
 | `git pull` | Download the latest version from github to local version(opposite of git push) | git pull |
 | `git log` | Keep track of all the changes/commits you've made in the repository | git log (shows commit,author,date,commit msg) |
-| `touch` | Create folder in the directory | touch hello.html |
+| `git reset` | Revert back to previews update (--hard resets everything, --hard origin/master resets local to whatever the github version is) | git reset --hard <commit hash> OR git reset --hard origin/master |
 
 #### Merge Conflict
 
 | Description | Example |
-| --- | --- | --- |
-| Clones the repository | git clone https://github.com/midsu/Portfolio.git |
+| --- | --- | 
+| Local version and github version conflicting on same line of changes | >>> HEAD a=2 === .....<<< |
 
 
 
