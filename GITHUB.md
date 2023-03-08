@@ -16,4 +16,6 @@
 | `git push` | Publish your current local commit | git push |
 | `touch` | Create folder in the directory | touch hello.html |
 | `git commit -am` | add and commit in a single step | git commit -am "Added more" |
+| `git pull` | Download the latest version from github to local version(opposite of git push) | git pull |
+
 
