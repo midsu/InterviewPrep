@@ -5,7 +5,7 @@
 
 | Command | Description | Example |
 | --- | --- | --- |
-| `git clone <url>` | Clones the repository | git close https://github.com/midsu/Portfolio.git |
+| `git clone <url>` | Clones the repository | git clone https://github.com/midsu/Portfolio.git |
 | `ls` | List the folders in the directory | ls |
 | `cd` | Change directory | cd hello |
 | `touch` | Create folder in the directory | touch hello.html |
