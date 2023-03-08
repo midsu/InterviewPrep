@@ -11,4 +11,6 @@
 | `touch` | Create folder in the directory | touch hello.html |
 | `code.` | Opens text editor | code. |
 | `git add <filename>` | Adds the file to track/saved | git add hello.html |
+| `git commit -m "message"` | Save and commit the changes | git commit -m "added a line" |
+| `git status` | See the what's currecntly happening in the repository | git status |
 
